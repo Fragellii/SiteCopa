@@ -1,0 +1,67 @@
+body {
+    background-color: #DCDCDC;
+}
+
+.cor-fundo-cabeca {
+    background-image: linear-gradient(to right, rgb(238, 230, 230), rgb(128, 0, 0));
+
+}
+
+.titulo {
+    font-family: 'Edu TAS Beginner', cursive;
+   
+}
+
+
+.texto {
+    font-family: 'Oswald', sans-serif;
+    font-size: 23px;
+}
+
+/* .imagem-copa-catar {
+    max-width: 20%;
+    height: auto;
+} */
+
+.card-largura {
+    width: 18rem;
+}
+
+.card-posicao-imagem {
+    object-fit: cover;
+    height: 200px;
+}
+
+footer {
+    text-align: center;
+    font-size: x-large;
+    color: white;
+    background-image: linear-gradient(to right, rgb(128, 0, 0), rgb(238, 230, 230));
+}
+
+.modal-content {
+    background-color: #DCDCDC;
+}
+
+.borda-cor-especial {
+    border-color: darkred;
+}
+
+/* estadios */
+
+.carousel-inner > .carousel-item > img {
+    width: 700px;
+    height: 400px;
+}
+
+
+
+/* grupos */
+
+.lista-grupos a {
+    text-decoration: none;
+}
+
+.cor-grupos {
+    color: rgb(252, 4, 4);
+}
